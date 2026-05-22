@@ -1,0 +1,6 @@
+{
+  "name": "M3U Stream Sniffer & Playlist Builder",
+  "description": "เครื่องมือสกัดลิงก์ทีวี/สตรีม M3U, สร้างโค้ด Python Scraper อัจฉริยะด้วย AI, จัดการและตรวจสอบไฟล์เพลย์ลิสต์ M3U/W3U สำหรับเครื่องเล่นสื่อ",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
